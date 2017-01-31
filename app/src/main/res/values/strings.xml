@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arkan</string>
+
+    //Tab Strip Strings
+    <string name="meetings_tab">Meetings</string>
+    <string name="announcements_tab">Announcement</string>
+    <string name="discussions_tab">Discussion Forum</string>
+    <string name="my_tasks_tab">My Tasks</string>
+    <string name="digital_assets_tab">Digital Assets</string>
+</resources>
